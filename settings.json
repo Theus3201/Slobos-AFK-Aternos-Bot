@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "EliteRealmSmp.aternos.me",
-    "port": 28872,
+    "port": 46193,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
